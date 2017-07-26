@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LithoPodcast</string>
+    <string name="title_popular">Popular</string>
+    <string name="title_trending">Trending</string>
+    <string name="title_featured">Featured</string>
+    <string name="title_search">Search</string>
+
+    <string name="loading">Loading…</string>
+</resources>
